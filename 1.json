@@ -1,0 +1,16 @@
+{
+    "name": "VLONE",
+    "description": "DIE VLONE LIVE VLONE",
+    "image": "ipfs://QmWnBoL3dVUW4XNjXmKvaKNVCzFgkxGdCASv3GKdcdJ9Dv",
+    "attributes": [
+        {
+            "trait_type": "face",
+            "value": "smile"
+        },
+        
+        {
+            "trait_type": "item",
+            "value": "macbook"
+        }
+    ]
+}

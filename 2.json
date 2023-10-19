@@ -1,0 +1,16 @@
+{
+    "name": "BOSS",
+    "description": "NEVER NEEDED NO HELP",
+    "image": "ipfs://QmWyanTCxjsWz1gc22pMJJgCoFXCoG33ZNtAm32V8SNjmr",
+    "attributes": [
+        {
+            "trait_type": "face",
+            "value": "smile"
+        },
+        
+        {
+            "trait_type": "item",
+            "value": "macbook"
+        }
+    ]
+}
