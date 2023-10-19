@@ -4,7 +4,7 @@ Creating a GitHub repository and writing a README is a larger task. Below is a s
 
 markdown
 Copy code
-# CryptoArtVibes - NFT Collection
+# ARA4MATIC - NFT Collection
 
 ## Overview
 
